@@ -27,9 +27,9 @@ I studied various aspects of data science applied to business contexts (as detai
 **KU Leuven**, September 2022 - September 2024
 - Major Courses: Macroeconomics, Microeconomics, Econometrics, Financial Products and Pricing (17/20), Data Science for Business.
 
-## Bachelor in Finance - Asset Valuation
-**SHANXI University of Finance and Economics**, September 2015 - July 2019
-- Major Courses: Asset Valuation(93.5/100), Corporate Valuation, Intangible Assets Valuation, Statistics, Econometrics（88/100）.
+## Bachelor of Finance - Asset Valuation
+**ShanXi University of Finance and Economics**, September 2015 - July 2019
+- Major Courses: Asset Valuation(93.5/100), Corporate Valuation, Intangible Assets Valuation, Statistics, Econometrics(88/100).
 
 # 🎖Skills
 
