@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://jianqi-wang.github.io/"
+  #github           : "https://jianqi-wang.github.io/"
   google_plus      :
   keybase          :
   instagram        : "naijiq.g"
@@ -53,9 +53,8 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            :
-  xing             :
-  youtube          :
+  MBTI             : "ENTJ"
+  Hogwarts House   : "Ravenclaw"
   wikipedia        :
 
 
