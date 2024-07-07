@@ -115,11 +115,11 @@
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}
-      {% if author.mbti %}
-        <li><div><strong>MBTI:</strong> {{ author.mbti }}</div></li>
+      {% if author.MBTI %}
+        <li><div><strong>MBTI:</strong> {{ author.MBTI }}</div></li>
       {% endif %}
-      {% if author.hogwarts_house %}
-        <li><div><strong>Hogwarts House:</strong> {{ author.hogwarts_house }}</div></li>
+      {% if author.[Hogwarts House] %}
+        <li><div><strong>Hogwarts House:</strong> {{ author.[Hogwarts House] }}</div></li>
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
@@ -216,11 +216,11 @@
       {% if author.impactstory %}
         <a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i></a>
       {% endif %}
-      {% if author.mbti %}
-        <div><strong>MBTI:</strong> {{ author.mbti }}</div>
+      {% if author.MBTI %}
+        <div><strong>MBTI:</strong> {{ author.MBTI }}</div>
       {% endif %}
-      {% if author.hogwarts_house %}
-        <div><strong>Hogwarts House:</strong> {{ author.hogwarts_house }}</div>
+      {% if author.[Hogwarts House] %}
+        <div><strong>Hogwarts House:</strong> {{ author.[Hogwarts House] }}</div>
       {% endif %}
       {% if author.wikipedia %}
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
