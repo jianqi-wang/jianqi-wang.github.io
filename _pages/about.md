@@ -28,7 +28,7 @@ My academic background has provided me with systematic quantitative training acr
 - **Linear Algebra** – vectors, matrices, and systems of linear equations
 - **Probability and Mathematical Statistics** – probability theory, random variables, probability distributions, estimation, and statistical inference
 - **Statistics** – statistical analysis and quantitative methods
-- **Additional Quantitative Evidence:** GRE Quantitative Reasoning: 169/170
+- **Additional Quantitative Evidence** – GRE Quantitative Reasoning: 169/170
 
 ## Econometrics & Quantitative Modeling
 - **Econometrics** – undergraduate training in regression and empirical economic analysis
@@ -54,14 +54,14 @@ My academic background has provided me with systematic quantitative training acr
 
 ## Coordinator — M-PETS BV
 
-**Belgium | Present**
+**Belgium ·  Present**
 
 - Coordinate cross-functional business activities involving product information, sales operations, logistics, compliance, and international partners.
 - Explore **AI-assisted and automated workflows** to improve information retrieval and reduce repetitive manual work.
 
 ## Project Coordinator — Kalytech
 
-**Belgium | November 2024 – May 2026**
+**Belgium ·  November 2024 – May 2026**
 
 - Managed and monitored **130+ concurrent research projects**, coordinating information across internal teams, external partners, and European headquarters.
 - Developed a local **Ollama + RAG knowledge base** for natural-language retrieval of project information from internal documents.
@@ -69,7 +69,7 @@ My academic background has provided me with systematic quantitative training acr
 
 ## Valuation Consulting — PCCPV
 
-**Beijing | January 2020 – May 2022**
+**Beijing ·  January 2020 – May 2022**
 
 - Conducted **financial modeling and quantitative analysis** for IPOs, M&A transactions, and asset valuation projects.
 - Applied **DCF and other quantitative valuation methods** to financial and asset-level data to support valuation and investment decisions.
